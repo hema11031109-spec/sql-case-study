@@ -9,9 +9,9 @@ Analyze course-wise revenue.
 Identify students with outstanding payments.
 
 🛠️ Tools & Technologies
-SQL
-PostgreSQL
-pgAdmin
+SQL,
+PostgreSQL,
+pgAdmin.
 
 📊 SQL Concepts Used
 SELECT & WHERE
